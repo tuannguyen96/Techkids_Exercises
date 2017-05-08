@@ -136,8 +136,7 @@ while(loop):
 
 
     if b == s:
-        print ('You won'!!!)
+        print ('You won')
         loop = False
-
-print('Tro choi ket thuc!')
+        sprint('Tro choi ket thuc')
 
